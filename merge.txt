@@ -1,2 +1,3 @@
+<<<<<<< HEAD
 i am master. i will update this txt. haha
-i am test. i will update this txt.
+i am test. i will update this txt. lala
